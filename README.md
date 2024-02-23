@@ -1,1 +1,1 @@
-# Seminar_Project
+# Seminar
